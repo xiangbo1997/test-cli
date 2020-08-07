@@ -1,0 +1,6 @@
+{
+    "deafult":"https://resafety.com/gitlab/v2/nodejs/vue-resafety-cli.git",
+    "edition2.x":"https://resafety.com/gitlab/v2/nodejs/vue-resafety-cli.git#resafety-vue-cli-2.X",
+    "edition3.x":"https://resafety.com/gitlab/v2/nodejs/vue-resafety-cli.git#resafety-vue-cli-3.X"
+   
+}
